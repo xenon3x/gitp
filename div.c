@@ -5,4 +5,5 @@ int main()
 	int b=20;
 	c=a/b;
 	printf("%d",c);
+	printf("done");
 }
